@@ -26,7 +26,7 @@ public class HeadlessPhantomJsDriver
 	String path = Paths.get("").toAbsolutePath().toString();
 
 	@Test
-	public void headlessBrowserTesting() {
+	public void headlessPhantomJsBrowserTesting() {
 
 		System.out.println("Working Directory = " + path);
 

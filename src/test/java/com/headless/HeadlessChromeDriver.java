@@ -27,7 +27,7 @@ public class HeadlessChromeDriver
 
 
 	@Test
-	public void headlessBrowserTesting() throws InterruptedException {
+	public void headlessChromeBrowserTesting() throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "/Users/anilpatidar/Downloads/chromedriver");
 
 		ChromeOptions options = new ChromeOptions();

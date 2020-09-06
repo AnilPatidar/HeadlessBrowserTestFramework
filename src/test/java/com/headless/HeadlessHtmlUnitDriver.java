@@ -62,7 +62,7 @@ public class HeadlessHtmlUnitDriver
 {
 
 	@Test
-	public void headlessBrowserTesting() throws InterruptedException {
+	public void headlessHTMLUnitBrowserTesting() throws InterruptedException {
 
 		WebDriver driver = new HtmlUnitDriver(true);
 
