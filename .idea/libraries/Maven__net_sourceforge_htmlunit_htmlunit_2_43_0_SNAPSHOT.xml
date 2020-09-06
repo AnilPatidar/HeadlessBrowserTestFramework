@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sourceforge.htmlunit:htmlunit:2.43.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.43.0-SNAPSHOT/htmlunit-2.43.0-20200802.120635-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.43.0-SNAPSHOT/htmlunit-2.43.0-20200802.120635-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/htmlunit/htmlunit/2.43.0-SNAPSHOT/htmlunit-2.43.0-20200802.120635-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
